@@ -1,4 +1,4 @@
-# hello-world
+# hello-world 🦕
 Welcome to my little corner of the digital jungle!
 
 I'm **Maip Macrothorax** a 20 year old dinosaur enthusiast currently studying **Economic Data Science** in Central Europe.  
